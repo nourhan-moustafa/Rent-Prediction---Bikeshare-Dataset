@@ -1,0 +1,14 @@
+name: LabEnv
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - python=3.9
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - pip
+  - jupyter
+  - pillow
+  
+
